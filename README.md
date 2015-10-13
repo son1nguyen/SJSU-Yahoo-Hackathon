@@ -5,5 +5,6 @@ A major part of our organization is the monitoring of Yahoo systems. We have hun
 On top of that, our team is working on making the systems that we support self-healing. We'd like you to propose how you would make these systems self-healing throughout our infrastructure.
 
 Feel free to create any websites or mobile apps wherever you see the need.
+The attached file (final_alert_file.csv) is an example log file from our system.
 
 Have fun!
